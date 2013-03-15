@@ -1,0 +1,1 @@
+Put your HTML files other than index.html in this folder.

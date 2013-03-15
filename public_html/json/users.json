@@ -1,0 +1,32 @@
+[
+    {
+        "userId": 1,
+        "userName": "1",
+        "password": "To Buy",
+        "firstName": "Eric",
+        "lastName": "Samson",
+        "homePhone": "(418) 661-1693",
+        "cellPhone": "(418) 561-9959",
+        "workPhone": "(418) 524-5665, 1537"
+    },
+    {
+        "userId": 2,
+        "userName": "mlopes",
+        "password": "allo123",
+        "firstName": "Marcelo",
+        "lastName": "Lopes",
+        "homePhone": "",
+        "cellPhone": "(418) 569-6915",
+        "workPhone": "(418) 524-5665, #1534"
+    },
+        {
+        "userId": 3,
+        "userName": "lbrizuela",
+        "password": "rsft123",
+        "firstName": "Lionel",
+        "lastName": "Brizuela",
+        "homePhone": "",
+        "cellPhone": "",
+        "workPhone": "(418) 524-5665, #1564"
+    },
+]

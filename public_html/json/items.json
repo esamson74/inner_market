@@ -1,0 +1,50 @@
+[
+    {
+        "itemId": "1",
+        "name":"Tasses à café",
+        "shortDescription":"Des belles tasses presque gratuites.",
+        "mainImageURL":"img/item/1.jpg"
+    },
+    {
+        "itemId": "2",
+        "name":"Patente à gosse",
+        "shortDescription":"Aucune idée à quoi ça sert, mais ça pourais vous être pratique.",
+        "mainImageURL":""
+    },
+    {
+        "itemId": "7",
+        "name":"Magnifique auto à vendre",
+        "shortDescription":"Wow, vous ne trouverez pas cette aubaine ailleurs sur le marché!",
+        "mainImageURL":"img/item/7.jpg"
+    },
+    {
+        "itemId": "5",
+        "name":"Guitare",
+        "shortDescription":"Vous voulez jouer comme un pro, voici ce qu'il vous faut.",
+        "mainImageURL":"img/item/5.jpg"
+    },
+    {
+        "itemId": "3",
+        "name":"Set de cuisine 9 morceaux",
+        "shortDescription":"Beau set de cuisine incluant 1 table (avec rallonge) et 8 chaises.  Le tout fait en bois d'érable.",
+        "mainImageURL":"img/item/3.jpg"
+    },
+    {
+        "itemId": "4",
+        "name":"Ordinateur portable à vendre",
+        "shortDescription":"Super puissant, jamais sorti l'hiver.  Tasse, câbles et écouteurs vendus séparéments.",
+        "mainImageURL":"img/item/4.jpg"
+    },
+    {
+        "itemId": "2",
+        "name":"Super pneus de course",
+        "shortDescription":"Idéal pour votre Honda Civic 'racing'. 4 Pneus 195/40R15Z pour rouler avec la casquette à l'envers sans problème.",
+        "mainImageURL":"img/item/2.jpg"
+    },
+    {
+        "itemId": "6",
+        "name":"Casque de ski",
+        "shortDescription":"Beau casque qui n'a jamais servi. Je me suis cassé la jambe avant de pouvoir l'essayer. Moitié prix!",
+        "mainImageURL":"img/item/6.jpg"
+    }
+]

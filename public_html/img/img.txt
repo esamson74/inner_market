@@ -1,0 +1,1 @@
+Put your Image files in this folder.
